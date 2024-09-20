@@ -1,3 +1,5 @@
+## Future development moved to https://github.com/aeroteameindhoven/aerodynamics-toolkit-docker
+
 # XFLR5 Docker
 
 To build and run this container, clone this repository and run `docker compose up --build` the container will be built and XFLR5 will run.
